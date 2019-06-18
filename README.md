@@ -23,8 +23,8 @@ cd to directory of your choice, clone and start working
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ex. Gleb Zavizenov
+ex. Nour Al-Osman
 
 ## License
 
