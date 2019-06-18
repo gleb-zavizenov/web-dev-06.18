@@ -23,8 +23,8 @@ cd to directory of your choice, clone and start working
 
 Contributors names and contact info
 
-ex. Gleb Zavizenov
-ex. Nour Al-Osman
+* Gleb Zavizenov
+* Nour Al-Osman
 
 ## License
 
