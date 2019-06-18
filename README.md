@@ -1,7 +1,6 @@
 # This is all about presentation files and review
 
 ![TRAA Logo](/images/traa-logo.jpg)
-Format: ![Alt Text](url)
 
 Going over some stuff
 
